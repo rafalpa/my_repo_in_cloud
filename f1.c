@@ -7,3 +7,5 @@ private class HelloWorld {
 	}
 
 }
+
+HWDP na 80%
